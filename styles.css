@@ -1,0 +1,40 @@
+html, body {
+    background-color: black;
+}
+
+.post {
+    background-color: white;
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.post-img, img {
+    max-width: 100%;
+
+}
+.post-icons, .post-header {
+    display: flex;
+    align-items: center;
+}
+
+.fa-comment, .fa-paper-plane, .m-left {
+    margin-left: 5px;
+}
+
+span {
+    margin-left: auto;
+}
+
+.post-header {
+    padding: 8px;
+}
+
+.post-header p {
+    margin: 0;
+
+}
+.post-body {
+    padding: 8px;
+
+}
